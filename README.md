@@ -197,4 +197,4 @@ Preethi Gali
 
 ## GitHub Repository
 
-Add your repository link here after uploading the project.
+https://github.com/preethigali7/House-Price-Prediction
